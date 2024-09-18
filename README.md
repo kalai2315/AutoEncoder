@@ -1,19 +1,15 @@
-**Autoencoder for Image Compression**
+****Autoencoder for Image Compression****
 
 **Introduction**
 
-This project demonstrates the use of an autoencoder to compress and reconstruct image data. An autoencoder is a type of artificial neural network used to learn efficient representations (encodings) of input data, typically for the purpose of dimensionality reduction. In this project, we use the MNIST dataset to train the autoencoder, compress the images, and then reconstruct them.
+This project demonstrates the use of an autoencoder to compress and reconstruct image data. An autoencoder is a type of artificial neural network used to learn efficient representations (encodings) of input data, typically for the purpose of dimensionality reduction. In this project, the MNIST dataset is used to train the autoencoder, compress the images, and then reconstruct them.
 
 **Requirements**
 
 Python 3.x
-
 TensorFlow
-
 Keras
-
 NumPy
-
 Matplotlib
 
 **Acknowledgements**
